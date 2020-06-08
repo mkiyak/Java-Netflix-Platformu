@@ -30,7 +30,7 @@ Ekranin solunda "Project" kisminda olusturdugunuz java uygulamasini bulup 2 kere
 Source Package simgesinin ustune gelip 2 kez tikladiginizda "default package" yazisini goreceksiniz. Default package'a sag tik yapip "new" secenegine geliniz.
 Oradan "Java class" secenegine tiklayiniz. Karsiniza "New Java Class" penceresi acilacaktir.Gerekli sınıf ve formları seçerek aşağıdaki adımları uygulayınız.
 
-Tum bu adimlardan tamamlandiktan sonra "1_180201115-180201135.txt" metin belgesini aciniz. Üzerlerinde yazili siniflari olusturarak "Ctrl+A" ya basip tum kodu kopyaladiktan sonra olusturdunuz 
+Tum bu adimlardan tamamlandiktan sonra "source.txt" metin belgesini aciniz. Üzerlerinde yazili siniflari olusturarak "Ctrl+A" ya basip tum kodu kopyaladiktan sonra olusturdunuz 
 classinin icine yapistiriniz.Bu işlemleritüm classlar icin metin belgesinin icindeki bilgileri kopyalayip yapistirarak tekrarlayiniz.
 
 GirisYap classini acip sag tik yapip "Run File" secenegine tiklayarak programimizi calistirabilirsiniz.
